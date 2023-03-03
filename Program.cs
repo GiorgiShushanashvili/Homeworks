@@ -6,4 +6,7 @@ var name = Console.ReadLine();
 Console.WriteLine("Enter your lastname");
 var lastname = Console.ReadLine();
 Console.WriteLine($"my name is {name} and my lastname is {lastname}");
+
+var age = 23;
+Console.WriteLine($"{name}'s age is {age} years old");
 Console.ReadLine();
