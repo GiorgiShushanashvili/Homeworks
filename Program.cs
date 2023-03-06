@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.ForegroundColor = ConsoleColor.Green;
+﻿Console.ForegroundColor = ConsoleColor.Green;
 Console.BackgroundColor = ConsoleColor.White;
 Console.WriteLine("Enter your firstname");
 var name = Console.ReadLine();
